@@ -14,7 +14,7 @@ alt="FLOYD WARSHALL" width="240" height="180" border="10" /></a>
 alt="BRUTE FORCE" width="240" height="180" border="10" /></a>
 
 ## KMP
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kBW6oPaVjq0
-" target="_blank"><img src="http://img.youtube.com/vi/kBW6oPaVjq0/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GTJr8OvyEVQ
+" target="_blank"><img src="http://img.youtube.com/vi/GTJr8OvyEVQ/0.jpg" 
 alt="KMP" width="240" height="180" border="10" /></a>
 
