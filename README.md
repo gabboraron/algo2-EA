@@ -8,6 +8,11 @@
 " target="_blank"><img src="http://img.youtube.com/vi/i9SZKy2yTZw/0.jpg" 
 alt="FLOYD WARSHALL" width="240" height="180" border="10" /></a>
 
+## TRANZITÍV LEZÁRT - WARSHALL
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=we6HSY1nKxY
+" target="_blank"><img src="http://img.youtube.com/vi/we6HSY1nKxY/0.jpg" 
+alt="FLOYD WARSHALL" width="240" height="180" border="10" /></a>
+
 ## BRUTE FORCE
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yMJLpdKV0BQ
 " target="_blank"><img src="http://img.youtube.com/vi/yMJLpdKV0BQ/0.jpg" 
